@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renify</h1>
-<h3 align="center">A keen passionate developer who likes to do self learning more & built awesome things by my own.</h3>
+<h3 align="center">A keen passionated dev who likes to do self learning more & built awesome things by my own.</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3nify&label=Profile%20views&color=0e75b6&style=flat" alt="r3nify" /> </p>
 
@@ -12,7 +12,7 @@
         <li>🔭 I’m currently working on <b>Project Zcouts</b></li>
         <li>📖 I’m currently mastering <b>php and exploring about Java with OOP.</b></li>
         <li>💬 Ask me about <b>html, CSS or JavaScript.</b></li>
-        <li>📫 How to reach me: <a href="timotheecolins@gmail.com"></li>
+        <li>📫 How to reach me: <b>timotheecolins@gmail.com</b></li>
         <li>🙇‍♂️ About me: <b>I really like work in a isolated environment which makes my productivity high.</b></li>
       </ul>
     </td>
